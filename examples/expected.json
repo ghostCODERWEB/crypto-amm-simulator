@@ -1,0 +1,16 @@
+{
+  "history": [
+    {
+      "k": 2000059570000,
+      "k_before": 2000000000000,
+      "lp_supply": 1000000,
+      "output": 19743,
+      "reserve_x": 1010000,
+      "reserve_y": 1980257,
+      "type": "swap"
+    }
+  ],
+  "lp_supply": 1000000,
+  "reserve_x": 1010000,
+  "reserve_y": 1980257
+}
